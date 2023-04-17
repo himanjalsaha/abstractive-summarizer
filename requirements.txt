@@ -1,3 +1,4 @@
 Flask==2.1.0
 transformers==4.9.2
 gunicorn
+sentencepiece==0.1.96
